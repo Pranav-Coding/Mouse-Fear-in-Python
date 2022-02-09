@@ -137,7 +137,7 @@ legup = pygame.USEREVENT+1
 pygame.time.set_timer(legup, 100)
 
  #Background Music
-pygame.mixer.Channel(0).play(pygame.mixer.Sound('back.wav'))
+#pygame.mixer.Channel(0).play(pygame.mixer.Sound('back.wav'))
 
 
 while True:
